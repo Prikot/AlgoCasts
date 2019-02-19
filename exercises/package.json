@@ -10,5 +10,8 @@
     "testEnvironment": "node"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "darwin": "0.0.5"
+  }
 }
